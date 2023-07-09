@@ -4,6 +4,7 @@ In this project, multiclass cataract classification was performed by using a div
 
 ## Data Source
 Ocular Disease Intelligent Recognition (ODIR) is a structured ophthalmic database of 5,000 patients with age, colour fundus photographs from left and right eyes and doctors' diagnostic keywords from doctors. This dataset is meant to represent a ‘‘real-life’’ set of patient information collected from different hospitals/medical centres in China. In these institutions, fundus images are captured by various cameras in varied image resolutions. These dataset images have been labelled and annotated by trained human professionals. The classes are: Normal, Diabetes, Glaucoma, Cataract, Age related Macular Degeneration, Hypertension, Pathological Myopia, Other diseases/abnormalities.
+
 Data Source Link: [https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)
 
 ## VGG-19
